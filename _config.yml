@@ -4,7 +4,7 @@
 
 url: http://steshaw.github.com
 title: steshaw
-subtitle: The occasional thoughts of Steven Shaw.
+subtitle: The occasional thoughts of Steven Shaw
 author: Steven Shaw
 simple_search: http://google.com/search
 description:
@@ -89,7 +89,7 @@ delicious_user: steshaw
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: stevenshaw
+disqus_short_name: steshaw
 disqus_show_comment_count: false
 
 # Google Analytics
