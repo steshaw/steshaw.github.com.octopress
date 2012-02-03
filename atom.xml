@@ -4,7 +4,7 @@
   <title><![CDATA[steshaw]]></title>
   <link href="http://steshaw.github.com/atom.xml" rel="self"/>
   <link href="http://steshaw.github.com/"/>
-  <updated>2012-02-03T16:12:47+10:00</updated>
+  <updated>2012-02-03T16:28:27+10:00</updated>
   <id>http://steshaw.github.com/</id>
   <author>
     <name><![CDATA[Steven Shaw]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello octopress]]></title>
+    <link href="http://steshaw.github.com/blog/2012/02/03/hello-octopress/"/>
+    <updated>2012-02-03T16:22:00+10:00</updated>
+    <id>http://steshaw.github.com/blog/2012/02/03/hello-octopress</id>
+    <content type="html"><![CDATA[<p>New blog courtesy of <a href="http://octopress.org/">Octopress</a>.</p>
+]]></content>
+  </entry>
   
 </feed>
