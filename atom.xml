@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[steshaw]]></title>
+  <title><![CDATA[Steven Shaw]]></title>
   <link href="http://steshaw.github.com/atom.xml" rel="self"/>
   <link href="http://steshaw.github.com/"/>
-  <updated>2012-02-03T17:45:42+10:00</updated>
+  <updated>2012-02-03T19:21:34+10:00</updated>
   <id>http://steshaw.github.com/</id>
   <author>
     <name><![CDATA[Steven Shaw]]></name>

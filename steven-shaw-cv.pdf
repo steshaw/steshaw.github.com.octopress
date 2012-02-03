@@ -1,0 +1,2968 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 8 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:steshaw@gmail.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 463.2902
+ 722.5861
+ 532.5827
+ 731.5861 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://steshaw.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 492.1502
+ 704.5861
+ 532.5827
+ 713.5861 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R ]
+ /Contents 61 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 60 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://codefu.com.au/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 715.1486
+ 122.6929
+ 733.1486 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+8 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://tnsi.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 588.9611
+ 87.69291
+ 603.9611 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://guvera.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 412.1486
+ 114.3829
+ 430.1486 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Annots [ 7 0 R
+ 9 0 R
+ 10 0 R ]
+ /Contents 62 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 60 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://gosu-lang.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 230.5229
+ 660.7736
+ 254.4229
+ 672.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.experian.co.uk/payments/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 444.9611
+ 181.4929
+ 459.9611 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+14 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.jpmorganchase.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 291.9611
+ 167.5804
+ 306.9611 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+15 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://t-mobile.co.uk/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 162.9611
+ 114.0804
+ 177.9611 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+16 0 obj
+% Page dictionary
+<< /Annots [ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R ]
+ /Contents 63 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 60 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://optus.com.au/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 702.9611
+ 98.80541
+ 717.9611 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://transtoll.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 533.9611
+ 118.9554
+ 548.9611 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+19 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.intecbilling.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 350.1486
+ 151.8829
+ 368.1486 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.dialog.com.au/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 254.1486
+ 283.5529
+ 272.1486 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class PDFDictionary 
+21 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.citec.com.au/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 170.1486
+ 107.6929
+ 188.1486 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page4': class PDFPage 
+22 0 obj
+% Page dictionary
+<< /Annots [ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R ]
+ /Contents 64 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 60 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER15': class PDFDictionary 
+23 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://interface21.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 324.8976
+ 564.7736
+ 374.9276
+ 576.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class PDFDictionary 
+24 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.vub.ac.be/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 324.8976
+ 546.7736
+ 433.2476
+ 558.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class PDFDictionary 
+25 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.bea.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 324.8976
+ 510.7736
+ 344.9076
+ 522.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class PDFDictionary 
+26 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.aimqld.com.au/index.htm) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 324.8976
+ 492.7736
+ 342.6776
+ 504.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class PDFDictionary 
+27 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.bea.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 324.8976
+ 474.7736
+ 344.9076
+ 486.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class PDFDictionary 
+28 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.asert.com.au/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 324.8976
+ 456.7736
+ 358.2376
+ 468.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class PDFDictionary 
+29 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.asert.com.au/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 324.8976
+ 324.7736
+ 358.2376
+ 336.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class PDFDictionary 
+30 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.objectconsulting.com.au/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 324.8976
+ 240.7736
+ 403.8176
+ 252.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page5': class PDFPage 
+31 0 obj
+% Page dictionary
+<< /Annots [ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R
+ 30 0 R ]
+ /Contents 65 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 60 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R32': class PDFCatalog 
+32 0 obj
+% Document Root
+<< /Outlines 34 0 R
+ /PageLabels 66 0 R
+ /PageMode /UseNone
+ /Pages 60 0 R
+ /Type /Catalog >>
+endobj
+% 'R33': class PDFInfo 
+33 0 obj
+<< /Author ()
+ /CreationDate (D:20111010112657-10'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Steven Shaw) >>
+endobj
+% 'R34': class PDFOutlines 
+34 0 obj
+<< /Count 30
+ /First 35 0 R
+ /Last 59 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 692.0236
+ 0 ]
+ /Next 36 0 R
+ /Parent 34 0 R
+ /Title (Summary) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+36 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 575.0236
+ 0 ]
+ /Next 37 0 R
+ /Parent 34 0 R
+ /Prev 35 0 R
+ /Title (Selected Technical Skills) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 400.0236
+ 0 ]
+ /Next 38 0 R
+ /Parent 34 0 R
+ /Prev 36 0 R
+ /Title (Highlights) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+38 0 obj
+<< /Count 19
+ /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 39 0 R
+ /Last 57 0 R
+ /Next 58 0 R
+ /Parent 34 0 R
+ /Prev 37 0 R
+ /Title (Professional Experience) >>
+endobj
+% 'Outline.26.0': class OutlineEntryObject 
+39 0 obj
+<< /Count 3
+ /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /First 40 0 R
+ /Last 42 0 R
+ /Next 43 0 R
+ /Parent 38 0 R
+ /Title (Code Fu) >>
+endobj
+% 'Outline.27.0': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Next 41 0 R
+ /Parent 39 0 R
+ /Title (Cube Fu) >>
+endobj
+% 'Outline.27.1': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 603.0236
+ 0 ]
+ /Next 42 0 R
+ /Parent 39 0 R
+ /Prev 40 0 R
+ /Title (TNS) >>
+endobj
+% 'Outline.27.2': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 522.0236
+ 0 ]
+ /Parent 39 0 R
+ /Prev 41 0 R
+ /Title (Aimlab) >>
+endobj
+% 'Outline.26.1': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 429.0236
+ 0 ]
+ /Next 44 0 R
+ /Parent 38 0 R
+ /Prev 39 0 R
+ /Title (Guvera) >>
+endobj
+% 'Outline.26.2': class OutlineEntryObject 
+44 0 obj
+<< /Count 3
+ /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 239.0236
+ 0 ]
+ /First 45 0 R
+ /Last 47 0 R
+ /Next 48 0 R
+ /Parent 38 0 R
+ /Prev 43 0 R
+ /Title (Top Gun Consulting) >>
+endobj
+% 'Outline.28.0': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 191.0236
+ 0 ]
+ /Next 46 0 R
+ /Parent 44 0 R
+ /Title (Suncorp) >>
+endobj
+% 'Outline.28.1': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 47 0 R
+ /Parent 44 0 R
+ /Prev 45 0 R
+ /Title (Suncorp) >>
+endobj
+% 'Outline.28.2': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 648.0236
+ 0 ]
+ /Parent 44 0 R
+ /Prev 46 0 R
+ /Title (Department of Natural Resources and Water) >>
+endobj
+% 'Outline.26.3': class OutlineEntryObject 
+48 0 obj
+<< /Count 3
+ /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 507.0236
+ 0 ]
+ /First 49 0 R
+ /Last 51 0 R
+ /Next 52 0 R
+ /Parent 38 0 R
+ /Prev 44 0 R
+ /Title (Noble Technology \(UK\)) >>
+endobj
+% 'Outline.29.0': class OutlineEntryObject 
+49 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 459.0236
+ 0 ]
+ /Next 50 0 R
+ /Parent 48 0 R
+ /Title (Experian Payments \(formerly Eiger Systems\)) >>
+endobj
+% 'Outline.29.1': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 306.0236
+ 0 ]
+ /Next 51 0 R
+ /Parent 48 0 R
+ /Prev 49 0 R
+ /Title (JP Morgan Chase) >>
+endobj
+% 'Outline.29.2': class OutlineEntryObject 
+51 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 177.0236
+ 0 ]
+ /Parent 48 0 R
+ /Prev 50 0 R
+ /Title (T-Mobile) >>
+endobj
+% 'Outline.26.4': class OutlineEntryObject 
+52 0 obj
+<< /Count 2
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 53 0 R
+ /Last 54 0 R
+ /Next 55 0 R
+ /Parent 38 0 R
+ /Prev 48 0 R
+ /Title (Top Gun Consulting) >>
+endobj
+% 'Outline.30.0': class OutlineEntryObject 
+53 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Next 54 0 R
+ /Parent 52 0 R
+ /Title (Optus) >>
+endobj
+% 'Outline.30.1': class OutlineEntryObject 
+54 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 548.0236
+ 0 ]
+ /Parent 52 0 R
+ /Prev 53 0 R
+ /Title (Transtoll \(formerly Transcore Australia\)) >>
+endobj
+% 'Outline.26.5': class OutlineEntryObject 
+55 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 367.0236
+ 0 ]
+ /Next 56 0 R
+ /Parent 38 0 R
+ /Prev 52 0 R
+ /Title (Intec Billing \(formerly ADC, Software Systems Division\)) >>
+endobj
+% 'Outline.26.6': class OutlineEntryObject 
+56 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 271.0236
+ 0 ]
+ /Next 57 0 R
+ /Parent 38 0 R
+ /Prev 55 0 R
+ /Title (Dialog Information Technology) >>
+endobj
+% 'Outline.26.7': class OutlineEntryObject 
+57 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 187.0236
+ 0 ]
+ /Parent 38 0 R
+ /Prev 56 0 R
+ /Title (CITEC) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+58 0 obj
+<< /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 59 0 R
+ /Parent 34 0 R
+ /Prev 38 0 R
+ /Title (Education) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+59 0 obj
+<< /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 696.0236
+ 0 ]
+ /Parent 34 0 R
+ /Prev 58 0 R
+ /Title (Professional Development) >>
+endobj
+% 'R60': class PDFPages 
+60 0 obj
+% page tree
+<< /Count 5
+ /Kids [ 6 0 R
+ 11 0 R
+ 16 0 R
+ 22 0 R
+ 31 0 R ]
+ /Type /Pages >>
+endobj
+% 'R61': class PDFStream 
+61 0 obj
+% page stream
+<< /Length 10198 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 173.2549 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Steven Shaw) Tj T* -173.2549 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.0236 cm
+q
+BT 1 0 0 1 0 1.5 Tm 379.3348 0 Td 9 TL /F2 7.5 Tf 0 0 0 rg (email) Tj /F1 7.5 Tf ( ) Tj 0 0 .501961 rg (steshaw@gmail.com) Tj T* -379.3348 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 713.0236 cm
+q
+BT 1 0 0 1 0 1.5 Tm 397.7623 0 Td 9 TL /F2 7.5 Tf 0 0 0 rg (mobile ) Tj /F1 7.5 Tf (0433 042 849) Tj T* -397.7623 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 704.0236 cm
+q
+BT 1 0 0 1 0 1.5 Tm 412.7848 0 Td 9 TL /F2 7.5 Tf 0 0 0 rg (web) Tj /F1 7.5 Tf ( ) Tj 0 0 .501961 rg (steshaw.org) Tj  T* -412.7848 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 671.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Senior Developer with more than a decade specialising in the Java platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Application architecture, frameworks and design patterns.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Database design and programming.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+Q
+q
+1 0 0 1 62.69291 619.0236 cm
+Q
+q
+1 0 0 1 62.69291 601.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Distributed computing and network programming.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 601.0236 cm
+Q
+q
+1 0 0 1 62.69291 605.0236 cm
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Programming languages and emerging technologies.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Selected Technical Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+Q
+q
+1 0 0 1 62.69291 524.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Java SE, Java EE, Spring, Hibernate, EJB, JPA, Servlets, JSF, JSP, JUnit, Swing.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 524.0236 cm
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (IntelliJ, Eclipse, NetBeans, Ant, Maven, Hudson/Jenkins, Cruise Control.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+Q
+q
+1 0 0 1 62.69291 514.0236 cm
+Q
+q
+1 0 0 1 62.69291 496.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (JavaScript, HTML, jQuery, CSS, XML.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 496.0236 cm
+Q
+q
+1 0 0 1 62.69291 500.0236 cm
+Q
+q
+1 0 0 1 62.69291 482.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Scala, Ruby, Groovy, Shell, Python, Perl, C, C++, C#.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 482.0236 cm
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GlassFish, Jetty, Tomcat, WebLogic, OC4J.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+Q
+q
+1 0 0 1 62.69291 472.0236 cm
+Q
+q
+1 0 0 1 62.69291 454.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Oracle, MySQL, PostreSQL, Sybase.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 454.0236 cm
+Q
+q
+1 0 0 1 62.69291 458.0236 cm
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mac OS X, Linux, Sun Solaris, HP UX, IBM AIX, Microsoft Windows.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (XP, Scrum, TDD.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+Q
+q
+1 0 0 1 62.69291 430.0236 cm
+Q
+q
+1 0 0 1 62.69291 412.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Subversion, Git, Mercurial, Jira, Redmine.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 412.0236 cm
+Q
+q
+1 0 0 1 62.69291 412.0236 cm
+Q
+q
+1 0 0 1 62.69291 379.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Highlights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 367.0236 cm
+Q
+q
+1 0 0 1 62.69291 367.0236 cm
+Q
+q
+1 0 0 1 62.69291 325.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .00311 Tw (While working for JP Morgan Chase, was a developer on Apache Qpid - an AMQP messaging broker) Tj T* 0 Tw 1.156136 Tw (implementing the JMS API. Solved gnarly race condition in the message dispatch code. Released) Tj T* 0 Tw (the first .NET AMQP implementation and ported to Mono.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 325.0236 cm
+Q
+q
+1 0 0 1 62.69291 329.0236 cm
+Q
+q
+1 0 0 1 62.69291 275.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 4.325433 Tw (As Lead Developer of T-Mobile's Strategic Partner Interface \(a B2B application connecting) Tj T* 0 Tw 1.019269 Tw (T-Mobile's network to resellers\), reduced lines of code by 30% whilst also delivering new features.) Tj T* 0 Tw .715697 Tw (Streamlined architecture and code to prepare for greater traffic. Solved timing bug unveiled by load) Tj T* 0 Tw (testing.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 275.0236 cm
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .860888 Tw (As hands-on Technical Lead, successfully exposed application functionality as JSR-168 portlets on) Tj T* 0 Tw .223318 Tw (Vignette Application Portal v7. Despite the fact that no team member had prior experience with VAP,) Tj T* 0 Tw (we delivered an early release after 6 weeks and the final release within the required 3 months.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+Q
+q
+1 0 0 1 62.69291 241.0236 cm
+Q
+q
+1 0 0 1 62.69291 211.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .700697 Tw (Led team of 3 to successfully integrate a proprietary scripting language interpreter into ADC's CRM) Tj T* 0 Tw (system, allowing unprecedented customisation by implementation consultants.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 211.0236 cm
+Q
+q
+1 0 0 1 62.69291 215.0236 cm
+Q
+q
+1 0 0 1 62.69291 173.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.783314 Tw (Enhanced a real time rating engine to access critical customer information including customer) Tj T* 0 Tw 1.714597 Tw (hierarchies. This allowed real time account management with the use of customer specific tariffs) Tj T* 0 Tw (such as frequently called numbers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 173.0236 cm
+Q
+q
+1 0 0 1 62.69291 177.0236 cm
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Enhanced job scheduler component, allowing it to schedule jobs across a cluster.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R62': class PDFStream 
+62 0 obj
+% page stream
+<< /Length 6341 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Professional Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (Code Fu) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Jun 2009 - Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Cube Fu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Lead Programmer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Sep 2010 - Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Research and development into bringing existing OpenGL-based games to web and mobile platforms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (C, C++, JavaScript, WebGL, Objective-C.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 .501961 rg (TNS) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team Lead) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Jun 2010 - Aug 2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Project planning and kickstart for enhancement of credit card processing services.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Java 6, Ant, Maven, IntelliJ, Eclipse, Tomcat, Servlets, JSP, HTTP, HTTPS.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Aimlab) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Analyst/Programmer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Jun 2009 \226 Jul 2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.043307 Tw (Increased programmer productivity and enhanced maintainability whilst investigating strategies for) Tj T* 0 Tw (internationalisation/localisation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Java, JavaScript, AJAX, Comet, Tapestry.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (Guvera) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Senior Developer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Sep 2009 - Apr 2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Guvera is a startup in the digital media space.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented full text search.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+Q
+q
+1 0 0 1 62.69291 355.0236 cm
+Q
+q
+1 0 0 1 62.69291 337.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Integrated with Content Data Network for media download.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 337.0236 cm
+Q
+q
+1 0 0 1 62.69291 341.0236 cm
+Q
+q
+1 0 0 1 62.69291 323.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technical leadership.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 323.0236 cm
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mentored junior developers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+Q
+q
+1 0 0 1 62.69291 313.0236 cm
+Q
+q
+1 0 0 1 62.69291 295.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Regular point of contact for test & support teams.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 295.0236 cm
+Q
+q
+1 0 0 1 62.69291 299.0236 cm
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Production deployment and monitoring.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
+Q
+q
+1 0 0 1 62.69291 251.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.31998 Tw (Java, JDK6, Jetty, GlassFish, NetBeans, IntelliJ, Spring, Spring WebFlow, JSF, Primefaces, EJB, JPA,) Tj T* 0 Tw (Maven, Nexus, Hudson, MySQL, Scala, Ruby, Shell, Mac OS X, Linux.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 221.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Top Gun Consulting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 203.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Oct 2007 - May 2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 176.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Suncorp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 158.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Senior Developer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Nov 2008 - Feb 2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 128.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.880888 Tw (Developer on Suncorp's Treasury System Replacement project, an integration project providing the) Tj T* 0 Tw (integration services on top of Kondor from Reuters Thompson.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 110.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Java, JDK6, IntelliJ, Tibco RV, Kondor, Agile/XP/Scrum, TDD, 100% test coverage.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R63': class PDFStream 
+63 0 obj
+% page stream
+<< /Length 5790 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 750.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Suncorp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Application Architect) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Jun 2008 \226 Aug 2008) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 3.113976 Tw (Suncorp Provided architectural guidance for building Suncorp's insurance claims application across) Tj T* 0 Tw 2.326905 Tw (multiple lines of business and brands. Developed prototype during a number of architectural spikes.) Tj T* 0 Tw .829069 Tw (Defined the application architecture along with supporting material including development standards and) Tj T* 0 Tw (educational website.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Java, JDK5, Guidewire, GScript \(now ) Tj 0 0 .501961 rg (Gosu) Tj 0 0 0 rg (\), Jetty, Tomcat, Scrum.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Department of Natural Resources and Water) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Senior Developer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Nov 2007 \226 Jan 2008) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .348651 Tw (The department is replacing their ageing billing system for land tenures. Developed prototype for phase 2) Tj T* 0 Tw .567633 Tw (based on the chosen technologies. Worked out of way of getting hot deploy to work with the architecture) Tj T* 0 Tw 1.43152 Tw (using Jetty for more productive development. Prototyped a mechanism to dynamically build JSF forms) Tj T* 0 Tw 3.62998 Tw (based on metaprogramming. Investigated static analysis tools and enhanced the tool suite used.) Tj T* 0 Tw (Upgraded Hudson and configured to show trend graphs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.76498 Tw (Java, JDK6, Tomcat, Jetty, Spring Framework 2.0, Hibernate 3, EJB3, JPA, JSF, Facelets,) Tj T* 0 Tw (RichFaces/Ajax4JSF, Seam, Ingres, Hudson, Ant, Maven, CVS, PMD, FindBugs, CheckStyle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Noble Technology \(UK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Jun 2005 - Oct 2007) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 .501961 rg (Experian Payments ) Tj 0 0 0 rg (\(formerly Eiger Systems\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Senior Developer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Feb 2007 \226 Jul 2007) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.479213 Tw (Developer on EigerPay Gateway version 2.0, a payments gateway connecting to VOCA's new ETS) Tj T* 0 Tw .019982 Tw (WebService and implementing a drop-in HST solution. Implemented configuration UI and services for data) Tj T* 0 Tw .789213 Tw (retrieval and distribution. Assisted port to IBM zSeries \(S/390\). Implemented redirect-after-post on top of) Tj T* 0 Tw .92784 Tw (Spring MVC, upgraded Spring configuration to make use of the new Spring 2.0 namespaces, enhanced) Tj T* 0 Tw 1.200651 Tw (beans via Spring AOP to fire property change events, translated Spring DAO exceptions at the service) Tj T* 0 Tw (layer boundary to application exceptions via Spring AOP.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.97152 Tw (Java, Spring Framework 2.0, Spring MVC, Velocity, HTML, CSS, JavaScript, Hibernate 3, Jetty 6,) Tj T* 0 Tw (Tomcat, OC4J, PostgreSQL, Eclipse.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 .501961 rg (JP Morgan Chase) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Senior Developer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Jul 2006 \226 Dec 2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .67436 Tw (Working in the IB Tech, Equities Research and Architecture division as a developer on the Apache Qpid) Tj T* 0 Tw .453555 Tw (project - an open source implementation of the Advanced Message Queue Protocol \(AMQP\). The project) Tj T* 0 Tw 1.299985 Tw (provides a broker implemented in Java and C++ and clients implemented in Java, C#, C++, Ruby and) Tj T* 0 Tw (Python. I improved and maintained the Java broker and clients in both Java and C#.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.389979 Tw (Java, Generics, Multithreading/Concurrency, Java, JDK5, JDK6, .NET 2.0, C#, IntelliJ, Microsoft Visual) Tj T* 0 Tw (Studio 2005, JetBrains ReSharper, Windows, Mono, Linux.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 162.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 .501961 rg (T-Mobile) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 144.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Lead Developer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Jul 2005 - Jul 2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 114.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .99248 Tw (Improving, streamlining and maintaining the Strategic Partner Interface which provides online and batch) Tj T* 0 Tw (interfaces to third parties such as Virgin Mobile and BT.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Java, WebLogic Platform 8.1, Eclipse, Spring, Swing, Tuxedo 8.1, C/C++, Oracle, Sun Solaris, Linux.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R64': class PDFStream 
+64 0 obj
+% page stream
+<< /Length 6982 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Top Gun Consulting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Jun 2003 - Jun 2005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 .501961 rg (Optus) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Senior Programmer \(J2EE\)) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Jan 2004 - Jun 2005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.309985 Tw (Member of a team developing a Service Management System - a custom CRM system - using the) Tj T* 0 Tw (Feature Driven Development software process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mentored new developers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+Q
+q
+1 0 0 1 62.69291 634.0236 cm
+Q
+q
+1 0 0 1 62.69291 616.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Built auditing and logging subsystem leveraging Aspect/J.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 616.0236 cm
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.75152 Tw (Set up development and system test environments and ensured that the application to deployed) Tj T* 0 Tw (successfully in those environments.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .06998 Tw (WebLogic, JBuilder, Eclipse, Hibernate, Web Services, EJB, Macromedia Flex \(now Adobe Flex\), Sybase,) Tj T* 0 Tw (Linux, HP-UX.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 533.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 .501961 rg (Transtoll ) Tj 0 0 0 rg (\(formerly Transcore Australia\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 515.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Senior Developer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Jul 2003 - Oct 2003) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 461.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 11.2418 Tw (This toll management system was a custom built application server heavy with) Tj T* 0 Tw 4.598863 Tw (multithreading/concurrency, and networking code \(both TCP/IP streams and UDP/IP datagrams\).) Tj T* 0 Tw .488314 Tw (Application server framework based on custom services framework utilising Doug Lea\222s concurrency utils) Tj T* 0 Tw (which became the foundation for java.util.concurrent in Java 5.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Greatly improved productivity by re-enabling the unit testing system which had falled into disrepair.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Through a number of refactorings was able to remove almost 1000 lines of redundant code.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+Q
+q
+1 0 0 1 62.69291 427.0236 cm
+Q
+q
+1 0 0 1 62.69291 397.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.002651 Tw (Diagnosed and fixed a critical issue caused by a race condition which allowed messages to be) Tj T* 0 Tw (processed out of order.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 397.0236 cm
+Q
+q
+1 0 0 1 62.69291 397.0236 cm
+Q
+q
+1 0 0 1 62.69291 379.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Java, JDBC, RMI, TCP, Oracle 9i, PL/SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 349.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (Intec Billing ) Tj 0 0 0 rg (\(formerly ADC, Software Systems Division\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 331.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Senior Technical Software Developer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Jan 1999 - Apr 2003) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 313.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (R) Tj (&) Tj (D on CRM and billing products primarily for the mobile telecommunications industry.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 283.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.873314 Tw (Java, Tomcat, WebLogic, Apache HTTPD, JPython/Jython, JNI, Servlets, JSP, C, C++, BEA Tuxedo,) Tj T* 0 Tw (Oracle, Perl, Python, Shell.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 253.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (Dialog Information Technology) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 235.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Senior Analyst/Programmer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Feb 1993 - Dec 1998) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 217.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Working for various private and government clients.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 199.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (C, ESQL-C, HTML, Visual Basic 5.0, BEA Tuxedo, Ingres RDBMS, Ingres ABF, HTML.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 169.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (CITEC) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 151.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Analyst/Programmer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Dec 1990 \226 Feb 1992) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 121.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .178555 Tw (On industrial training from QUT. Worked on a number of different government systems including Furniture) Tj T* 0 Tw (\(asset management systems\) and CISP \(land management systems\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 103.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (C, ESQL-C, Ingres RDBMS, Ingres ABF, DEC Rally.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R65': class PDFStream 
+65 0 obj
+% page stream
+<< /Length 10454 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 726.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Master of Information Technology \226 2004) Tj /F1 10 Tf (, Queensland University of Technology, GPA 6.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Bachelor of Applied Science \(Computing\) - 1992) Tj /F1 10 Tf (, Queensland University of Technology, GPA 5.173) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Professional Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+Q
+q
+1 0 0 1 63.77953 201.0236 cm
+1 1 1 rg
+n 0 462 467.7165 -18 re f*
+.878431 .878431 .878431 rg
+n 0 444 467.7165 -30 re f*
+1 1 1 rg
+n 0 414 467.7165 -18 re f*
+.878431 .878431 .878431 rg
+n 0 396 467.7165 -18 re f*
+1 1 1 rg
+n 0 378 467.7165 -18 re f*
+.878431 .878431 .878431 rg
+n 0 360 467.7165 -18 re f*
+1 1 1 rg
+n 0 342 467.7165 -18 re f*
+.878431 .878431 .878431 rg
+n 0 324 467.7165 -18 re f*
+1 1 1 rg
+n 0 306 467.7165 -18 re f*
+.878431 .878431 .878431 rg
+n 0 288 467.7165 -18 re f*
+1 1 1 rg
+n 0 270 467.7165 -30 re f*
+.878431 .878431 .878431 rg
+n 0 240 467.7165 -18 re f*
+1 1 1 rg
+n 0 222 467.7165 -30 re f*
+.878431 .878431 .878431 rg
+n 0 192 467.7165 -18 re f*
+1 1 1 rg
+n 0 174 467.7165 -18 re f*
+.878431 .878431 .878431 rg
+n 0 156 467.7165 -18 re f*
+1 1 1 rg
+n 0 138 467.7165 -30 re f*
+.878431 .878431 .878431 rg
+n 0 108 467.7165 -18 re f*
+1 1 1 rg
+n 0 90 467.7165 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 467.7165 -18 re f*
+1 1 1 rg
+n 0 54 467.7165 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 467.7165 -18 re f*
+1 1 1 rg
+n 0 18 467.7165 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 447 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (JAOO Brisbane \(2 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 447 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trifork) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 447 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 429 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Introduction to Scala \(3 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 417 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Tony Morris & Tom Adams @) Tj T* (Working Mouse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 429 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2008) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 399 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Certified Scrum Master \(2 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 399 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Scrum.dk) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 399 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2008) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Server Side Java Symposium Barcelona \(3 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Server Side) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2007) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Spring One \(2 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 363 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Interface21) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Dynamic Languages Day) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 345 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Vrije Universiteit Brussel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 327 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (XP Day \(2 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 327 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (XP Day Organisation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 327 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (BEA WebLogic Platform 8.1 \(1 day\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 309 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (BEA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2004) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Professional Presentations \(2 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 291 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (AIM) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2002) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (BEA Tuxedo \(5 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 273 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (BEA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2002) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Implementing Java Security and Java eCommerce) Tj T* (Applications \(3 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 255 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ASERT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Leadership and Teams \(4 half days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ADC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Object Oriented Analysis and Design with UML \(5) Tj T* (days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (JavaSpaces \(seminar\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Netstorm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Java Thread Programming - Tips and Traps \(seminar\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ADC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developing CORBA Services Using Java \(seminar\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (DSTC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1999) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Advanced Java - Threads, RMI/CORBA, JFC/Swing,) Tj T* (Servlets \(3 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 123 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ASERT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1999) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (People Issues in Software Process Improvement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Engineering Australia) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1999) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (WebLogic and Enterprise Java Beans \(1/2 day\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adaptec Technologies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1999) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Design Patterns for Distributed Objects \(seminar\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (AJUG) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1999) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Object Mentor \(1/2 day\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Object Consulting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1999) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Programming with Microsoft Visual Basic 4.0 \(5 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Dialog) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1996) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Oracle RDBMS SQL, PL/SQL, SQL*PLUS \(5 days\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Oracle) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1995) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 444 m 467.7165 444 l S
+n 0 414 m 467.7165 414 l S
+n 0 396 m 467.7165 396 l S
+n 0 378 m 467.7165 378 l S
+n 0 360 m 467.7165 360 l S
+n 0 342 m 467.7165 342 l S
+n 0 324 m 467.7165 324 l S
+n 0 306 m 467.7165 306 l S
+n 0 288 m 467.7165 288 l S
+n 0 270 m 467.7165 270 l S
+n 0 240 m 467.7165 240 l S
+n 0 222 m 467.7165 222 l S
+n 0 192 m 467.7165 192 l S
+n 0 174 m 467.7165 174 l S
+n 0 156 m 467.7165 156 l S
+n 0 138 m 467.7165 138 l S
+n 0 108 m 467.7165 108 l S
+n 0 90 m 467.7165 90 l S
+n 0 72 m 467.7165 72 l S
+n 0 54 m 467.7165 54 l S
+n 0 36 m 467.7165 36 l S
+n 0 18 m 467.7165 18 l S
+n 255.1181 0 m 255.1181 462 l S
+n 425.1969 0 m 425.1969 462 l S
+n 0 462 m 467.7165 462 l S
+n 0 0 m 467.7165 0 l S
+n 0 0 m 0 462 l S
+n 467.7165 0 m 467.7165 462 l S
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R66': class PDFPageLabels 
+66 0 obj
+% Document Root
+<< /Nums [ 0
+ 67 0 R
+ 1
+ 68 0 R
+ 2
+ 69 0 R
+ 3
+ 70 0 R
+ 4
+ 71 0 R ] >>
+endobj
+% 'R67': class PDFPageLabel 
+67 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R68': class PDFPageLabel 
+68 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R69': class PDFPageLabel 
+69 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R70': class PDFPageLabel 
+70 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R71': class PDFPageLabel 
+71 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+xref
+0 72
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000585 00000 n
+0000000827 00000 n
+0000001050 00000 n
+0000001371 00000 n
+0000001598 00000 n
+0000001799 00000 n
+0000002033 00000 n
+0000002256 00000 n
+0000002587 00000 n
+0000002827 00000 n
+0000003081 00000 n
+0000003328 00000 n
+0000003555 00000 n
+0000003898 00000 n
+0000004138 00000 n
+0000004379 00000 n
+0000004627 00000 n
+0000004872 00000 n
+0000005101 00000 n
+0000005453 00000 n
+0000005695 00000 n
+0000005936 00000 n
+0000006175 00000 n
+0000006429 00000 n
+0000006668 00000 n
+0000006912 00000 n
+0000007156 00000 n
+0000007396 00000 n
+0000007761 00000 n
+0000007920 00000 n
+0000008179 00000 n
+0000008305 00000 n
+0000008472 00000 n
+0000008672 00000 n
+0000008857 00000 n
+0000009102 00000 n
+0000009315 00000 n
+0000009486 00000 n
+0000009668 00000 n
+0000009838 00000 n
+0000010023 00000 n
+0000010262 00000 n
+0000010433 00000 n
+0000010619 00000 n
+0000010824 00000 n
+0000011068 00000 n
+0000011276 00000 n
+0000011470 00000 n
+0000011642 00000 n
+0000011881 00000 n
+0000012050 00000 n
+0000012256 00000 n
+0000012492 00000 n
+0000012700 00000 n
+0000012866 00000 n
+0000013051 00000 n
+0000013220 00000 n
+0000013363 00000 n
+0000023661 00000 n
+0000030101 00000 n
+0000035990 00000 n
+0000043071 00000 n
+0000053629 00000 n
+0000053774 00000 n
+0000053851 00000 n
+0000053928 00000 n
+0000054005 00000 n
+0000054082 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\226\257T3\033;b\377\3260\243\363R\251?\313) (\226\257T3\033;b\377\3260\243\363R\251?\313)] 
+
+ /Info 33 0 R
+ /Root 32 0 R
+ /Size 72 >>
+startxref
+54129
+%%EOF
