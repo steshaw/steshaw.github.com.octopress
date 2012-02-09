@@ -9,8 +9,7 @@
   <meta name="author" content="Steven Shaw">
 
   
-  <meta name="description" content="New blog courtesy of Octopress.
-">
+  <meta name="description" content="I&#8217;m starting with a clean slate and moving to Octopress. Haskell source code highlighting appears to work out of the box: Expression evaluator &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -29,6 +28,9 @@
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
   
   <script type="text/javascript">
@@ -50,7 +52,7 @@
   <header role="banner"><hgroup>
   <h1><a href="/">Steven Shaw</a></h1>
   
-    <h2>Occasional thoughts of Steven Shaw</h2>
+    <h2>\( \lambda f. (\lambda x. f (x\;x)) \; (\lambda x. f (x\;x)) \)</h2>
   
 </hgroup>
 
@@ -104,7 +106,97 @@
   </header>
 
 
-<div class="entry-content"><p>New blog courtesy of <a href="http://octopress.org/">Octopress</a>.</p>
+<div class="entry-content"><p>I&#8217;m starting with a clean slate and moving to <a href="http://octopress.org/">Octopress</a>.</p>
+
+<p>Haskell source code highlighting appears to work out of the box:</p>
+
+<figure class='code'><figcaption><span>Expression evaluator, compiler and interpreter</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+</pre></td><td class='code'><pre><code class='haskell'><span class='line'><span class="kr">data</span> <span class="kt">Expr</span>
+</span><span class='line'>  <span class="ow">=</span> <span class="kt">Val</span> <span class="kt">Int</span>
+</span><span class='line'>  <span class="o">|</span> <span class="kt">Add</span> <span class="kt">Expr</span> <span class="kt">Expr</span>
+</span><span class='line'>  <span class="kr">deriving</span> <span class="p">(</span><span class="kt">Show</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="nf">eval</span> <span class="ow">::</span> <span class="kt">Expr</span> <span class="ow">-&gt;</span> <span class="kt">Int</span>
+</span><span class='line'><span class="nf">eval</span> <span class="p">(</span><span class="kt">Val</span> <span class="n">n</span><span class="p">)</span>   <span class="ow">=</span> <span class="n">n</span>
+</span><span class='line'><span class="nf">eval</span> <span class="p">(</span><span class="kt">Add</span> <span class="n">x</span> <span class="n">y</span><span class="p">)</span> <span class="ow">=</span> <span class="n">eval</span> <span class="n">x</span> <span class="o">+</span> <span class="n">eval</span> <span class="n">y</span>
+</span><span class='line'>
+</span><span class='line'><span class="kr">type</span> <span class="kt">Code</span> <span class="ow">=</span> <span class="p">[</span><span class="kt">Op</span><span class="p">]</span>
+</span><span class='line'><span class="kr">data</span> <span class="kt">Op</span>
+</span><span class='line'>  <span class="ow">=</span> <span class="kt">PUSH</span> <span class="kt">Int</span>
+</span><span class='line'>  <span class="o">|</span> <span class="kt">ADD</span>
+</span><span class='line'>  <span class="kr">deriving</span> <span class="p">(</span><span class="kt">Show</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="nf">comp</span> <span class="ow">::</span> <span class="kt">Expr</span> <span class="ow">-&gt;</span> <span class="kt">Code</span>
+</span><span class='line'><span class="nf">comp</span> <span class="p">(</span><span class="kt">Val</span> <span class="n">n</span><span class="p">)</span>   <span class="ow">=</span> <span class="p">[</span><span class="kt">PUSH</span> <span class="n">n</span><span class="p">]</span>
+</span><span class='line'><span class="nf">comp</span> <span class="p">(</span><span class="kt">Add</span> <span class="n">x</span> <span class="n">y</span><span class="p">)</span> <span class="ow">=</span> <span class="n">comp</span> <span class="n">x</span> <span class="o">++</span> <span class="n">comp</span> <span class="n">y</span> <span class="o">++</span> <span class="p">[</span><span class="kt">ADD</span><span class="p">]</span>
+</span><span class='line'>
+</span><span class='line'><span class="nf">exec</span> <span class="ow">::</span> <span class="kt">Code</span> <span class="ow">-&gt;</span> <span class="kt">Int</span>
+</span><span class='line'><span class="nf">exec</span> <span class="ow">=</span> <span class="n">exec&#39;</span> <span class="kt">[]</span>
+</span><span class='line'>  <span class="kr">where</span>
+</span><span class='line'>    <span class="n">exec&#39;</span> <span class="p">[</span><span class="n">result</span><span class="p">]</span> <span class="kt">[]</span>                <span class="ow">=</span> <span class="n">result</span>
+</span><span class='line'>    <span class="n">exec&#39;</span> <span class="n">stack</span> <span class="p">(</span><span class="kt">PUSH</span> <span class="n">n</span> <span class="kt">:</span> <span class="n">cs</span><span class="p">)</span>        <span class="ow">=</span> <span class="n">exec&#39;</span> <span class="p">(</span><span class="n">n</span> <span class="kt">:</span> <span class="n">stack</span><span class="p">)</span> <span class="n">cs</span>
+</span><span class='line'>    <span class="n">exec&#39;</span> <span class="p">(</span><span class="n">a</span> <span class="kt">:</span> <span class="n">b</span> <span class="kt">:</span> <span class="n">stack</span><span class="p">)</span> <span class="p">(</span><span class="kt">ADD</span> <span class="kt">:</span> <span class="n">cs</span><span class="p">)</span> <span class="ow">=</span> <span class="n">exec&#39;</span> <span class="p">(</span><span class="n">a</span> <span class="o">+</span> <span class="n">b</span> <span class="kt">:</span> <span class="n">stack</span><span class="p">)</span> <span class="n">cs</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>as does Scala:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+</pre></td><td class='code'><pre><code class='scala'><span class='line'><span class="k">import</span> <span class="nn">scala.collection.mutable</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">def</span> <span class="n">countWords</span><span class="o">(</span><span class="n">text</span><span class="k">:</span> <span class="kt">String</span><span class="o">)</span> <span class="k">=</span> <span class="o">{</span>
+</span><span class='line'>  <span class="k">val</span> <span class="n">counts</span> <span class="k">=</span> <span class="n">mutable</span><span class="o">.</span><span class="nc">Map</span><span class="o">[</span><span class="kt">String</span>, <span class="kt">Int</span><span class="o">]()</span>
+</span><span class='line'>  <span class="k">for</span> <span class="o">(</span><span class="n">word</span> <span class="k">&lt;-</span> <span class="n">text</span><span class="o">.</span><span class="n">split</span><span class="o">(</span><span class="s">&quot;[ ,!.]+&quot;</span><span class="o">))</span> <span class="o">{</span>
+</span><span class='line'>    <span class="k">val</span> <span class="n">lowerWord</span> <span class="k">=</span> <span class="n">word</span><span class="o">.</span><span class="n">toLowerCase</span>
+</span><span class='line'>    <span class="k">val</span> <span class="n">oldCount</span> <span class="k">=</span> <span class="n">counts</span><span class="o">.</span><span class="n">getOrElse</span><span class="o">(</span><span class="n">lowerWord</span><span class="o">,</span> <span class="mi">0</span><span class="o">)</span>
+</span><span class='line'>    <span class="n">counts</span><span class="o">(</span><span class="n">lowerWord</span><span class="o">)</span> <span class="k">=</span> <span class="n">oldCount</span> <span class="o">+</span> <span class="mi">1</span>
+</span><span class='line'>  <span class="o">}</span>
+</span><span class='line'>  <span class="n">counts</span>
+</span><span class='line'><span class="o">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">val</span> <span class="n">text</span> <span class="k">=</span> <span class="s">&quot;See Spot run. Run, Spot. Run!&quot;</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">countWords</span><span class="o">(</span><span class="n">text</span><span class="o">)</span> <span class="n">foreach</span> <span class="n">println</span>
+</span></code></pre></td></tr></table></div></figure>
+
 </div>
 
 
