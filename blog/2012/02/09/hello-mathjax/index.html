@@ -5,7 +5,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Steven Shaw</title>
+  <title>Hello MathJax - Steven Shaw</title>
   <meta name="author" content="Steven Shaw">
 
   
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://steshaw.github.com">
+  <link rel="canonical" href="http://steshaw.github.com/blog/2012/02/09/hello-mathjax">
   <link href="/favicon.ico" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -84,15 +84,12 @@
 </nav>
   <div id="main">
     <div id="content">
-      <div class="blog-index">
+      <div>
+<article class="hentry" role="article">
   
-  
-  
-    <article>
-      
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/02/09/hello-mathjax/">Hello MathJax</a></h1>
+      <h1 class="entry-title">Hello MathJax</h1>
     
     
       <p class="meta">
@@ -115,7 +112,7 @@
   </header>
 
 
-  <div class="entry-content"><p>MathJax isn&#8217;t currently supported out-of-the-box with Octopress. The main reason seems to be that the Markdown processor — rdiscount — doesn&#8217;t deal with the MathJax escaping very well. However, since <a href='http://maruku.rubyforge.org/math.xhtml'>Maruku supports it</a>, I thought I&#8217;d try switching over.</p>
+<div class="entry-content"><p>MathJax isn&#8217;t currently supported out-of-the-box with Octopress. The main reason seems to be that the Markdown processor — rdiscount — doesn&#8217;t deal with the MathJax escaping very well. However, since <a href='http://maruku.rubyforge.org/math.xhtml'>Maruku supports it</a>, I thought I&#8217;d try switching over.</p>
 
 <p>I made the following two changes:</p>
 <figure class='code'><figcaption><span>switch Markdown processors in _config.yml</span></figcaption><div class='highlight'><table><tr><td class='gutter'><pre class='line-numbers'><span class='line-number'>1</span>
@@ -180,22 +177,16 @@
 
 <li><a href='http://cwoebker.com/posts/latex-math-magic/'>LaTeX Math Magic</a></li>
 </ul></div>
-  
-  
 
 
-    </article>
-  
-  
-    <article>
+  <footer>
+    <p class="meta">
       
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/02/03/rebooting-with-octopress/">Rebooting with Octopress</a></h1>
-    
-    
-      <p class="meta">
-        
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Steven Shaw</span></span>
+
+      
 
 
 
@@ -207,109 +198,38 @@
   
 
 
-<time datetime="2012-02-03T16:22:00+10:00" pubdate data-updated="true">Feb 3<span>rd</span>, 2012</time>
-        
-      </p>
+<time datetime="2012-02-09T12:46:00+10:00" pubdate data-updated="true">Feb 9<span>th</span>, 2012</time>
+      
+
+
+    </p>
     
-  </header>
-
-
-  <div class="entry-content"><p>I&#8217;m starting with a clean slate and moving to <a href='http://octopress.org/'>Octopress</a>.</p>
-
-<p>Haskell source code highlighting appears to work out of the box:</p>
-<figure class='code'><figcaption><span>Run length encoding </span><a href='http://rosettacode.org/wiki/Run-length_encoding#Haskell'>link</a></figcaption><div class='highlight'><table><tr><td class='gutter'><pre class='line-numbers'><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-<span class='line-number'>22</span>
-<span class='line-number'>23</span>
-<span class='line-number'>24</span>
-</pre></td><td class='code'><pre><code class='haskell'><span class='line'><span class='kr'>import</span> <span class='nn'>Data.List</span> <span class='p'>(</span><span class='nf'>group</span><span class='p'>)</span>
-</span><span class='line'>
-</span><span class='line'><span class='c1'>-- Datatypes</span>
-</span><span class='line'><span class='kr'>type</span> <span class='kt'>Encoded</span> <span class='ow'>=</span> <span class='p'>[(</span><span class='kt'>Int</span><span class='p'>,</span> <span class='kt'>Char</span><span class='p'>)]</span>  <span class='c1'>-- An encoded String with form [(times, char), ...]</span>
-</span><span class='line'><span class='kr'>type</span> <span class='kt'>Decoded</span> <span class='ow'>=</span> <span class='kt'>String</span>
-</span><span class='line'>
-</span><span class='line'><span class='c1'>-- Takes a decoded string and returns an encoded list of tuples</span>
-</span><span class='line'><span class='nf'>rlencode</span> <span class='ow'>::</span> <span class='kt'>Decoded</span> <span class='ow'>-&gt;</span> <span class='kt'>Encoded</span>
-</span><span class='line'><span class='nf'>rlencode</span> <span class='ow'>=</span> <span class='n'>map</span> <span class='p'>(</span><span class='nf'>\</span><span class='n'>g</span> <span class='ow'>-&gt;</span> <span class='p'>(</span><span class='n'>length</span> <span class='n'>g</span><span class='p'>,</span> <span class='n'>head</span> <span class='n'>g</span><span class='p'>))</span> <span class='o'>.</span> <span class='n'>group</span>
-</span><span class='line'>
-</span><span class='line'><span class='c1'>-- Takes an encoded list of tuples and returns the associated decoded String</span>
-</span><span class='line'><span class='nf'>rldecode</span> <span class='ow'>::</span> <span class='kt'>Encoded</span> <span class='ow'>-&gt;</span> <span class='kt'>Decoded</span>
-</span><span class='line'><span class='nf'>rldecode</span> <span class='ow'>=</span> <span class='n'>concatMap</span> <span class='n'>decodeTuple</span>
-</span><span class='line'>    <span class='kr'>where</span> <span class='n'>decodeTuple</span> <span class='p'>(</span><span class='n'>n</span><span class='p'>,</span><span class='n'>c</span><span class='p'>)</span> <span class='ow'>=</span> <span class='n'>replicate</span> <span class='n'>n</span> <span class='n'>c</span>
-</span><span class='line'>
-</span><span class='line'><span class='nf'>main</span> <span class='ow'>::</span> <span class='kt'>IO</span> <span class='nb'>()</span>
-</span><span class='line'><span class='nf'>main</span> <span class='ow'>=</span> <span class='kr'>do</span>
-</span><span class='line'>  <span class='c1'>-- Get input</span>
-</span><span class='line'>  <span class='n'>putStr</span> <span class='s'>&quot;String to encode: &quot;</span>
-</span><span class='line'>  <span class='n'>input</span> <span class='ow'>&lt;-</span> <span class='n'>getLine</span>
-</span><span class='line'>  <span class='c1'>-- Output encoded and decoded versions of input</span>
-</span><span class='line'>  <span class='kr'>let</span> <span class='n'>encoded</span> <span class='ow'>=</span> <span class='n'>rlencode</span> <span class='n'>input</span>
-</span><span class='line'>      <span class='n'>decoded</span> <span class='ow'>=</span> <span class='n'>rldecode</span> <span class='n'>encoded</span>
-</span><span class='line'>  <span class='n'>putStrLn</span> <span class='o'>$</span> <span class='s'>&quot;Encoded: &quot;</span> <span class='o'>++</span> <span class='n'>show</span> <span class='n'>encoded</span> <span class='o'>++</span> <span class='s'>&quot;</span><span class='se'>\n</span><span class='s'>Decoded: &quot;</span> <span class='o'>++</span> <span class='n'>show</span> <span class='n'>decoded</span>
-</span></code></pre></td></tr></table></div></figure>
-<p>as does Scala:</p>
-<figure class='code'><figcaption><span /></figcaption><div class='highlight'><table><tr><td class='gutter'><pre class='line-numbers'><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-</pre></td><td class='code'><pre><code class='scala'><span class='line'><span class='k'>import</span> <span class='nn'>scala.collection.mutable</span>
-</span><span class='line'>
-</span><span class='line'><span class='k'>def</span> <span class='n'>countWords</span><span class='o'>(</span><span class='n'>text</span><span class='k'>:</span> <span class='kt'>String</span><span class='o'>)</span> <span class='k'>=</span> <span class='o'>{</span>
-</span><span class='line'>  <span class='k'>val</span> <span class='n'>counts</span> <span class='k'>=</span> <span class='n'>mutable</span><span class='o'>.</span><span class='nc'>Map</span><span class='o'>[</span><span class='kt'>String</span>, <span class='kt'>Int</span><span class='o'>]()</span>
-</span><span class='line'>  <span class='k'>for</span> <span class='o'>(</span><span class='n'>word</span> <span class='k'>&lt;-</span> <span class='n'>text</span><span class='o'>.</span><span class='n'>split</span><span class='o'>(</span><span class='s'>&quot;[ ,!.]+&quot;</span><span class='o'>))</span> <span class='o'>{</span>
-</span><span class='line'>    <span class='k'>val</span> <span class='n'>lowerWord</span> <span class='k'>=</span> <span class='n'>word</span><span class='o'>.</span><span class='n'>toLowerCase</span>
-</span><span class='line'>    <span class='k'>val</span> <span class='n'>oldCount</span> <span class='k'>=</span> <span class='n'>counts</span><span class='o'>.</span><span class='n'>getOrElse</span><span class='o'>(</span><span class='n'>lowerWord</span><span class='o'>,</span> <span class='mi'>0</span><span class='o'>)</span>
-</span><span class='line'>    <span class='n'>counts</span><span class='o'>(</span><span class='n'>lowerWord</span><span class='o'>)</span> <span class='k'>=</span> <span class='n'>oldCount</span> <span class='o'>+</span> <span class='mi'>1</span>
-</span><span class='line'>  <span class='o'>}</span>
-</span><span class='line'>  <span class='n'>counts</span>
-</span><span class='line'><span class='o'>}</span>
-</span><span class='line'>
-</span><span class='line'><span class='k'>val</span> <span class='n'>text</span> <span class='k'>=</span> <span class='s'>&quot;See Spot run. Run, Spot. Run!&quot;</span>
-</span><span class='line'>
-</span><span class='line'><span class='n'>countWords</span><span class='o'>(</span><span class='n'>text</span><span class='o'>)</span> <span class='n'>foreach</span> <span class='n'>println</span>
-</span></code></pre></td></tr></table></div></figure></div>
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://steshaw.github.com/blog/2012/02/09/hello-mathjax/" data-via="steshaw" data-counturl="http://steshaw.github.com/blog/2012/02/09/hello-mathjax/" >Tweet</a>
   
   
-
-
-    </article>
   
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
 </div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/02/03/rebooting-with-octopress/" title="Previous Post: Rebooting with Octopress">&laquo; Rebooting with Octopress</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
 <aside class="sidebar">
   
     <section>
@@ -331,7 +251,7 @@
 <section>
   <h1>Latest Tweets</h1>
   <ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
+    <li class="loading">Status updating...</li>
   </ul>
   <script type="text/javascript">
     $.domReady(function(){
@@ -367,6 +287,7 @@
   
 </aside>
 
+
     </div>
   </div>
   <footer role="contentinfo"><p>
@@ -381,7 +302,10 @@
       var disqus_shortname = 'steshaw';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://steshaw.github.com/blog/2012/02/09/hello-mathjax/';
+        var disqus_url = 'http://steshaw.github.com/blog/2012/02/09/hello-mathjax/';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
