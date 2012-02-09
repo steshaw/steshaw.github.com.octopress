@@ -4,7 +4,7 @@
 
 url: http://steshaw.github.com
 title: Steven Shaw
-subtitle: Occasional thoughts of Steven Shaw
+subtitle: \( \lambda f. (\lambda x. f (x\;x)) \; (\lambda x. f (x\;x)) \)
 author: Steven Shaw
 simple_search: http://google.com/search
 description:
