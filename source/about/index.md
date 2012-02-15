@@ -12,8 +12,8 @@ These personality/temperament profiles may help you to understand me. Many years
 [Keirsey Temperament Sorter](http://keirsey.com/). The result was 
 [INTJ](http://www.personalitypage.com/INTJ.html "INTJ - Mastermind/Scientist") for both.
 
-* [Keirsey Temperament Sorter Results](about/kcs.html)
-* [Keirsey Temperament Sorter II Results](about/kcs2.html)
+* [Keirsey Temperament Sorter Results](kcs.html)
+* [Keirsey Temperament Sorter II Results](kcs2.html)
 
 Later, I took a standard Myer-Briggs test which came up with 
 [INTP](http://www.personalitypage.com/INTP.html "INTP - Architect/Thinker"). Apparently, this is quite the typical profile for a computer programmer.
