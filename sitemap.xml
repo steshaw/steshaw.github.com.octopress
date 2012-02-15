@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://steshaw.github.com/blog/2012/02/03/rebooting-with-octopress/</loc>
+        <loc>http://steshaw.org/blog/2012/02/03/rebooting-with-octopress/</loc>
         <lastmod>2012-02-09T16:36:56+10:00</lastmod>
     </url>
     <url>
-        <loc>http://steshaw.github.com/blog/2012/02/09/hello-mathjax/</loc>
+        <loc>http://steshaw.org/blog/2012/02/09/hello-mathjax/</loc>
         <lastmod>2012-02-09T17:21:24+10:00</lastmod>
     </url>
     <url>
-        <loc>http://steshaw.github.com/about/</loc>
-        <lastmod>2012-02-09T17:41:52+10:00</lastmod>
+        <loc>http://steshaw.org/about/</loc>
+        <lastmod>2012-02-15T10:14:14+10:00</lastmod>
     </url>
     <url>
-        <loc>http://steshaw.github.com/blog/archives/</loc>
+        <loc>http://steshaw.org/blog/archives/</loc>
         <lastmod>2012-02-09T17:21:24+10:00</lastmod>
     </url>
     <url>
-        <loc>http://steshaw.github.com/</loc>
+        <loc>http://steshaw.org/</loc>
         <lastmod>2012-02-09T17:21:24+10:00</lastmod>
     </url>
 </urlset>

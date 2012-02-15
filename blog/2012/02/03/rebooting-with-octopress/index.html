@@ -19,7 +19,7 @@ Run length encoding &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://steshaw.github.com/blog/2012/02/03/rebooting-with-octopress">
+  <link rel="canonical" href="http://steshaw.org/blog/2012/02/03/rebooting-with-octopress">
   <link href="/favicon.ico" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -71,7 +71,7 @@ Run length encoding &hellip;">
   
 <form action="http://google.com/search" method="get">
   <fieldset role="search">
-    <input type="hidden" name="q" value="site:steshaw.github.com" />
+    <input type="hidden" name="q" value="site:steshaw.org" />
     <input class="search" type="text" name="q" results="0" placeholder="Search"/>
   </fieldset>
 </form>
@@ -226,7 +226,7 @@ Run length encoding &hellip;">
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://steshaw.github.com/blog/2012/02/03/rebooting-with-octopress/" data-via="steshaw" data-counturl="http://steshaw.github.com/blog/2012/02/03/rebooting-with-octopress/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://steshaw.org/blog/2012/02/03/rebooting-with-octopress/" data-via="steshaw" data-counturl="http://steshaw.org/blog/2012/02/03/rebooting-with-octopress/" >Tweet</a>
   
   
   
@@ -265,6 +265,35 @@ Run length encoding &hellip;">
       </li>
     
   </ul>
+</section>
+
+<section>
+  <h1>Github Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/steshaw">@steshaw</a> on Github
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'steshaw',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
@@ -323,8 +352,8 @@ Run length encoding &hellip;">
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://steshaw.github.com/blog/2012/02/03/rebooting-with-octopress/';
-        var disqus_url = 'http://steshaw.github.com/blog/2012/02/03/rebooting-with-octopress/';
+        var disqus_identifier = 'http://steshaw.org/blog/2012/02/03/rebooting-with-octopress/';
+        var disqus_url = 'http://steshaw.org/blog/2012/02/03/rebooting-with-octopress/';
         var disqus_script = 'embed.js';
       
     (function () {

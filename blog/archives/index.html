@@ -11,7 +11,7 @@
   
   <meta name="description" content="Blog Archive 2012 Hello MathJax
 Feb 09 2012 Rebooting with Octopress
-Feb 03 2012 Recent Posts Hello MathJax Rebooting with Octopress Latest Tweets &hellip;">
+Feb 03 2012 Recent Posts Hello MathJax Rebooting with Octopress Github Repos &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -20,7 +20,7 @@ Feb 03 2012 Recent Posts Hello MathJax Rebooting with Octopress Latest Tweets &h
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://steshaw.github.com/blog/archives">
+  <link rel="canonical" href="http://steshaw.org/blog/archives">
   <link href="/favicon.ico" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -72,7 +72,7 @@ Feb 03 2012 Recent Posts Hello MathJax Rebooting with Octopress Latest Tweets &h
   
 <form action="http://google.com/search" method="get">
   <fieldset role="search">
-    <input type="hidden" name="q" value="site:steshaw.github.com" />
+    <input type="hidden" name="q" value="site:steshaw.org" />
     <input class="search" type="text" name="q" results="0" placeholder="Search"/>
   </fieldset>
 </form>
@@ -141,6 +141,35 @@ Feb 03 2012 Recent Posts Hello MathJax Rebooting with Octopress Latest Tweets &h
       </li>
     
   </ul>
+</section>
+
+<section>
+  <h1>Github Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/steshaw">@steshaw</a> on Github
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'steshaw',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 

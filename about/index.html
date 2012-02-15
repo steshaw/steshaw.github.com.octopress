@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://steshaw.github.com/about">
+  <link rel="canonical" href="http://steshaw.org/about">
   <link href="/favicon.ico" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -70,7 +70,7 @@
   
 <form action="http://google.com/search" method="get">
   <fieldset role="search">
-    <input type="hidden" name="q" value="site:steshaw.github.com" />
+    <input type="hidden" name="q" value="site:steshaw.org" />
     <input class="search" type="text" name="q" results="0" placeholder="Search"/>
   </fieldset>
 </form>
@@ -101,9 +101,9 @@
 <p>These personality/temperament profiles may help you to understand me. Many years ago, I did the <a href='http://keirsey.com/'>Keirsey Temperament Sorter</a>. The result was <a href='http://www.personalitypage.com/INTJ.html' title='INTJ - Mastermind/Scientist'>INTJ</a> for both.</p>
 
 <ul>
-<li><a href='about/kcs.html'>Keirsey Temperament Sorter Results</a></li>
+<li><a href='kcs.html'>Keirsey Temperament Sorter Results</a></li>
 
-<li><a href='about/kcs2.html'>Keirsey Temperament Sorter II Results</a></li>
+<li><a href='kcs2.html'>Keirsey Temperament Sorter II Results</a></li>
 </ul>
 
 <p>Later, I took a standard Myer-Briggs test which came up with <a href='http://www.personalitypage.com/INTP.html' title='INTP - Architect/Thinker'>INTP</a>. Apparently, this is quite the typical profile for a computer programmer.</p>
@@ -113,7 +113,7 @@
       
         <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://steshaw.github.com/about/index.html" data-via="steshaw" data-counturl="http://steshaw.github.com/about/index.html" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://steshaw.org/about/index.html" data-via="steshaw" data-counturl="http://steshaw.org/about/index.html" >Tweet</a>
   
   
   
@@ -141,6 +141,35 @@
       </li>
     
   </ul>
+</section>
+
+<section>
+  <h1>Github Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/steshaw">@steshaw</a> on Github
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'steshaw',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 

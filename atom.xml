@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Steven Shaw]]></title>
-  <link href="http://steshaw.github.com/atom.xml" rel="self"/>
-  <link href="http://steshaw.github.com/"/>
-  <updated>2012-02-09T17:41:52+10:00</updated>
-  <id>http://steshaw.github.com/</id>
+  <link href="http://steshaw.org/atom.xml" rel="self"/>
+  <link href="http://steshaw.org/"/>
+  <updated>2012-02-15T10:14:24+10:00</updated>
+  <id>http://steshaw.org/</id>
   <author>
     <name><![CDATA[Steven Shaw]]></name>
     <email><![CDATA[steshaw@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello MathJax]]></title>
-    <link href="http://steshaw.github.com/blog/2012/02/09/hello-mathjax/"/>
+    <link href="http://steshaw.org/blog/2012/02/09/hello-mathjax/"/>
     <updated>2012-02-09T12:46:00+10:00</updated>
-    <id>http://steshaw.github.com/blog/2012/02/09/hello-mathjax</id>
+    <id>http://steshaw.org/blog/2012/02/09/hello-mathjax</id>
     <content type="html"><![CDATA[<p>MathJax isn&#8217;t currently supported out-of-the-box with Octopress. The main reason seems to be that the Markdown processor — rdiscount — doesn&#8217;t deal with the MathJax escaping very well. However, since <a href='http://maruku.rubyforge.org/math.xhtml'>Maruku supports it</a>, I thought I&#8217;d try switching over.</p>
 
 <p>I made the following two changes:</p>
@@ -87,9 +87,9 @@
   
   <entry>
     <title type="html"><![CDATA[Rebooting with Octopress]]></title>
-    <link href="http://steshaw.github.com/blog/2012/02/03/rebooting-with-octopress/"/>
+    <link href="http://steshaw.org/blog/2012/02/03/rebooting-with-octopress/"/>
     <updated>2012-02-03T16:22:00+10:00</updated>
-    <id>http://steshaw.github.com/blog/2012/02/03/rebooting-with-octopress</id>
+    <id>http://steshaw.org/blog/2012/02/03/rebooting-with-octopress</id>
     <content type="html"><![CDATA[<p>I&#8217;m starting with a clean slate and moving to <a href='http://octopress.org/'>Octopress</a>.</p>
 
 <p>Haskell source code highlighting appears to work out of the box:</p>
